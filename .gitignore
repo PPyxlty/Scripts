@@ -1,0 +1,4 @@
+upload_to_github.command
+venv/
+.env
+__pycache__/
